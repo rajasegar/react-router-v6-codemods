@@ -29,5 +29,6 @@
   },
   "jest": {
     "testEnvironment": "node"
-  }
+  },
+	"license": "MIT"
 }
