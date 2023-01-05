@@ -24,7 +24,7 @@ module.exports = function transformer(file, api) {
         name: 'history',
       },
     })
-    .replaceWith((path) => {
+    .replaceWith(() => {
       return j.variableDeclarator(
         j.identifier('navigate'),
         j.callExpression(j.identifier('useNavigate'), [])
@@ -43,7 +43,7 @@ module.exports = function transformer(file, api) {
         },
       },
     })
-    .replaceWith((path) => {
+    .replaceWith(() => {
       return j.callExpression(j.identifier('navigate'), [j.stringLiteral('/home')]);
     });
 
