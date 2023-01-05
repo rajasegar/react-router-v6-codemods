@@ -1,7 +1,10 @@
 # react-router-v6-codemods
 
+![Build and Deploy](https://github.com/rajasegar/react-router-v6-codemods/workflows/CI/badge.svg)
+[![npm version](http://img.shields.io/npm/v/react-router-v6-codemods.svg?style=flat)](https://npmjs.org/package/react-router-v6-codemods 'View this project on npm')
 
-A collection of codemods for react-router-v6-codemods.
+
+A collection of codemods for react-router for upgrading to v6.
 
 ## Usage
 
