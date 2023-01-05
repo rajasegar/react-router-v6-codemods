@@ -24,6 +24,9 @@ node ./bin/cli.js <TRANSFORM NAME> path/of/files/ or/some**/*glob.js
 ## Transforms
 
 <!--TRANSFORMS_START-->
+* [link-to-props](transforms/link-to-props/README.md)
+* [redirect-to-navigate](transforms/redirect-to-navigate/README.md)
+* [static-router-imports](transforms/static-router-imports/README.md)
 * [use-navigate](transforms/use-navigate/README.md)
 <!--TRANSFORMS_END-->
 
