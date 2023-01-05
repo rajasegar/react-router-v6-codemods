@@ -1,0 +1,2 @@
+useMatch({ end });
+useMatch({ caseSensitive });

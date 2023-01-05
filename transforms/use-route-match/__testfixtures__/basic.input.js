@@ -1,0 +1,2 @@
+useRouteMatch({ strict });
+useRouteMatch({ sensitive });
