@@ -1,6 +1,6 @@
 {
   "name": "react-router-v6-codemods",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "scripts": {
     "lint": "eslint --cache .",
     "test": "codemod-cli test",
@@ -11,9 +11,9 @@
   "bin": "./bin/cli.js",
   "keywords": [
     "codemod-cli",
-		"react-router",
-		"react",
-		"v6"
+    "react-router",
+    "react",
+    "v6"
   ],
   "dependencies": {
     "codemod-cli": "^3.2.0"
@@ -33,6 +33,6 @@
   "jest": {
     "testEnvironment": "node"
   },
-	"license": "MIT",
-	 "author": "Rajasegar Chandran <rajasegar.c@gmail.com>"
+  "license": "MIT",
+  "author": "Rajasegar Chandran <rajasegar.c@gmail.com>"
 }
