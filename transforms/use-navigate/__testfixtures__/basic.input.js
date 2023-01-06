@@ -1,5 +1,3 @@
-import { useHistory } from 'react-router-dom';
-
 function App() {
   let history = useHistory();
   function handleClick() {

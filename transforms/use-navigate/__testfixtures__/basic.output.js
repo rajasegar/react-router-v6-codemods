@@ -1,5 +1,4 @@
-import { useNavigate } from 'react-router-dom';
-
+import { useNavigate } from 'react-router-dom-v5-compat';
 function App() {
   let navigate = useNavigate();
   function handleClick() {
