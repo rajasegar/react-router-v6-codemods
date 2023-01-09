@@ -33,6 +33,8 @@ node ./bin/cli.js <TRANSFORM NAME> path/of/files/ or/some**/*glob.js
 * [match-path-arguments](transforms/match-path-arguments/README.md)
 * [navlink-exact-end](transforms/navlink-exact-end/README.md)
 * [redirect-to-navigate](transforms/redirect-to-navigate/README.md)
+* [remove-active-classname](transforms/remove-active-classname/README.md)
+* [remove-active-style](transforms/remove-active-style/README.md)
 * [remove-compat-router](transforms/remove-compat-router/README.md)
 * [remove-redirect-inside-switch](transforms/remove-redirect-inside-switch/README.md)
 * [rename-compat-imports](transforms/rename-compat-imports/README.md)
