@@ -36,6 +36,7 @@ node ./bin/cli.js <TRANSFORM NAME> path/of/files/ or/some**/*glob.js
 * [remove-active-classname](transforms/remove-active-classname/README.md)
 * [remove-active-style](transforms/remove-active-style/README.md)
 * [remove-compat-router](transforms/remove-compat-router/README.md)
+* [remove-go-hooks](transforms/remove-go-hooks/README.md)
 * [remove-redirect-inside-switch](transforms/remove-redirect-inside-switch/README.md)
 * [rename-compat-imports](transforms/rename-compat-imports/README.md)
 * [static-router-imports](transforms/static-router-imports/README.md)
