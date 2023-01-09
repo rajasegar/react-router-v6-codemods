@@ -40,7 +40,7 @@ module.exports = function transformer(file, api) {
 
   root
     .findJSXElements('NavLink')
-    .filter(hasAttributes({ style: (v) => true, activeStyle: (v) => true }))
+    .filter(hasAttributes({ style: () => true, activeStyle: () => true }))
 
     .forEach((path) => {
       const attrs = path.value.openingElement.attributes;
