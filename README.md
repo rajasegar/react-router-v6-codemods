@@ -34,6 +34,7 @@ node ./bin/cli.js <TRANSFORM NAME> path/of/files/ or/some**/*glob.js
 * [navlink-exact-end](transforms/navlink-exact-end/README.md)
 * [redirect-to-navigate](transforms/redirect-to-navigate/README.md)
 * [remove-compat-router](transforms/remove-compat-router/README.md)
+* [remove-redirect-inside-switch](transforms/remove-redirect-inside-switch/README.md)
 * [rename-compat-imports](transforms/rename-compat-imports/README.md)
 * [static-router-imports](transforms/static-router-imports/README.md)
 * [use-location](transforms/use-location/README.md)
